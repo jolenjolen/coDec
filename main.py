@@ -1,4 +1,5 @@
 # Created by Jolen Mascarenhas
+# When the program asks to provide a path where the message should be stored, please specify full path of either encode.txt or decode.txt  depending on the action you want to perform.
 import os
 os.system("color f0")
 space=' '
